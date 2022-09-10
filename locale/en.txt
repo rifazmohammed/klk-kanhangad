@@ -1,0 +1,29 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalithakala Akademi Art Gallery, Kanhangad
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_5D682B86_57FB_A06F_41D0_71352FD7F58C.label = Art Gallery, Kanhangad
+panorama_5E49A6CE_57FB_A1FF_41C5_EADB5FC7B3EF.label = Art Gallery, Kanhangad
+panorama_5E49B385_57FB_E06D_41D2_0FB4FDB2008D.label = Art Gallery, Kanhangad
+panorama_5E49DB14_57FB_A063_41A5_51B6EF204009.label = Art Gallery, Kanhangad
+panorama_5E49E7BC_57FB_EFA3_41CB_DA241501ABC6.label = Art Gallery, Kanhangad
+panorama_5E49FF4F_57FB_E0FD_41AF_2D3911A49394.label = Art Gallery, Kanhangad
+panorama_5E4E3BE7_57FB_A7AD_41CC_3C39D7EC027B.label = Art Gallery, Kanhangad
